@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addannouncement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="assignmnet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classstatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="displaycourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="insertassignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="insertcourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Insertquiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="insertstudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="insertteacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginmanage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="printQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quizcheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="settingcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Studentlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="teachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Updateassignmnet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updatecourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updatequiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updatestudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
